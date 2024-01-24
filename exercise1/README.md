@@ -3,7 +3,7 @@
  **Flowchart**
 
 
-1. Create a flowchart
+1. Create a flowchart 
 
  **Pseudocode**
 
