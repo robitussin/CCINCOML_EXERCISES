@@ -7,7 +7,7 @@
 
 Create a flow chart for your itinerary. 
 - Your flow chart should use at least three decision symbols
-- Your flowchart should start in cebu, bohol and davao.
+- Your flowchart should start in cebu then bohol and finally davao.
 
 Please name your file **itinerary.png**
 
