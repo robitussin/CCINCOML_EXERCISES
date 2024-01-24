@@ -22,7 +22,7 @@ Please name your file **odd_even.txt**
 
  **Algorithm, flowchart and pseudocode**
 
-1. Think of an algorithm on how you will increase your chance of winning blackjack
+1. Think of an algorithm on how you will increase your chance of winning in blackjack
 
 - Create a flowchart of you algorithm
 - Write a pseudocode of your algorithm
