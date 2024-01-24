@@ -1,11 +1,12 @@
 # **Exercise 1**
 
-# **Flowchart**
-# **Pseudocode**
+ **Flowchart**
+
 
 1. Create a flowchart
 
+ **Pseudocode**
 
-2. Create a pseudocode
+1. Create a pseudocode
 
    <img src="odd even.png">
