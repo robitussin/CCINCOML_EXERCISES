@@ -9,6 +9,8 @@ Create a flow chart for your itinerary.
 - Your flow chart should use at least three decision symbols
 - Your flowchart should start in cebu, bohol and davao.
 
+Please name your file **itinerary.png**
+
 
  **Pseudocode**
 
@@ -16,6 +18,7 @@ Create a flow chart for your itinerary.
 
    <img src="odd even.png">
 
+Please name your file **odd_even.txt**
 
  **Algorithm, flowchart and pseudocode**
 
@@ -23,3 +26,5 @@ Create a flow chart for your itinerary.
 
 - Create a flowchart of you algorithm
 - Write a pseudocode of your algorithm
+
+Please name your file **blackjack.png** and **blackjack.txt**
