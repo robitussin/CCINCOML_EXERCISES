@@ -8,4 +8,4 @@
 
 2. Create a pseudocode
 
-   <img src="">
+   <img src="odd even.png">
